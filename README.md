@@ -6,7 +6,7 @@ The project combines Python, SQL, XGBoost and Streamlit to transform historical 
 
 ## 🚀 Live Demo
 
-Coming soon!
+**[Try the app here](https://delivery-intelligence-akash.streamlit.app/)**
 
 ## 📊 Project Overview
 
