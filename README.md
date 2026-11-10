@@ -194,6 +194,57 @@ The dataset contains historical Brazilian e-commerce orders, customers, sellers,
 ### Bulk CSV Prediction
 ![Bulk Prediction](screenshots/screenshots/bulk_prediction.png)
 
+
+
+## 🚀 Installation & Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/akash9304-VK/delivery-delay-prediction-olist.git
+cd delivery-delay-prediction-olist
+```
+
+### 2. Create a virtual environment
+
+```bash
+python -m venv .venv
+```
+
+Activate it on Windows:
+
+```bash
+.venv\Scripts\activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Configure MySQL
+
+- Install MySQL and create a database named `delivery_delay`.
+- Import the Olist dataset tables into the database.
+- Open `sql/create_views.sql` in MySQL Workbench and execute it.
+- Configure your local database credentials as required by the Python scripts.
+
+### 5. Run the application
+
+```bash
+streamlit run app/app.py
+```
+
+The application will open locally in your browser.
+
+### 6. Try bulk prediction
+
+Upload the included `sample_orders.csv` file under the Bulk CSV tab to test multiple orders.
+
+**Note:** The trained model artifact is included in the repository. The original Olist dataset files are not included; download them separately from the public dataset source.
+
+
 ## 👨‍💻 Author
 
 **Akash Sonwalkar**
