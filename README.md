@@ -180,6 +180,20 @@ Its predictions should be interpreted as estimates of late-delivery risk, not gu
 
 The dataset contains historical Brazilian e-commerce orders, customers, sellers, payments, products and delivery information.
 
+## 📸 Application Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/overview.png)
+
+### Model Performance
+![Model Performance](screenshots/model_performance.png)
+
+### Single Order Prediction
+![Single Prediction](screenshots/single_prediction.png)
+
+### Bulk CSV Prediction
+![Bulk Prediction](screenshots/bulk_prediction.png)
+
 ## 👨‍💻 Author
 
 **Akash Sonwalkar**
