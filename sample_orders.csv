@@ -1,0 +1,6 @@
+item_count,seller_count,total_item_price,total_freight,order_purchase_timestamp,order_estimated_delivery_date,customer_state
+2,1,250,35,2018-06-15 13:50:00,2018-06-25,SP
+1,1,89.90,18.50,2018-07-03 09:15:00,2018-07-18,RJ
+3,2,520,62,2018-08-10 17:25:00,2018-08-30,MG
+1,1,45,12,2018-09-01 11:40:00,2018-09-08,BA
+4,3,799.99,95,2018-10-12 15:05:00,2018-11-05,RS
