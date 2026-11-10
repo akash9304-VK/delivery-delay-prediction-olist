@@ -183,16 +183,16 @@ The dataset contains historical Brazilian e-commerce orders, customers, sellers,
 ## 📸 Application Screenshots
 
 ### Main Dashboard
-![Dashboard](screenshots/overview.png)
+![Dashboard](screenshots/screenshots/overview.png)
 
 ### Model Performance
-![Model Performance](screenshots/model_performance.png)
+![Model Performance](screenshots/screenshots/model_performance.png)
 
 ### Single Order Prediction
-![Single Prediction](screenshots/single_prediction.png)
+![Single Prediction](screenshots/screenshots/single_prediction.png)
 
 ### Bulk CSV Prediction
-![Bulk Prediction](screenshots/bulk_prediction.png)
+![Bulk Prediction](screenshots/screenshots/bulk_prediction.png)
 
 ## 👨‍💻 Author
 
